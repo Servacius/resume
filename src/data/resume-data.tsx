@@ -15,7 +15,7 @@ export const RESUME_DATA = {
       Love solving complex problems with simple, maintainable solutions.
     </>
   ),
-  avatarUrl: "#",
+  avatarUrl: "https://avatars.githubusercontent.com/Servacius",
   personalWebsiteUrl: "https://jokoliber.netlify.app/",
   contact: {
     email: "servacius.liber@gmail.com",
