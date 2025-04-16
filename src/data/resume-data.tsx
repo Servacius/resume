@@ -168,7 +168,7 @@ export const RESUME_DATA = {
             Mentored and guide students in technology-related disciplines as part of the MSP program, equipping them with industry-relevant skills beyond traditional academia.
             </li>
             <li>
-            Provided training on Microsoft technologies to enhance students' employability and career readiness
+            Provided training on Microsoft technologies to enhance students employability and career readiness
             </li>
           </ul>
         </>
