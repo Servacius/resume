@@ -199,7 +199,7 @@ export const RESUME_DATA = {
       title: "arch_bytes",
       techStack: ["TypeScript", "Astro Framework", "FastAPI", "Gemini API", "Pyton"],
       description:
-        "Bite-sized information and quizzes generator about Software Architecturing, to help me update and refresh my knowledge. This project will be use AI(Gemini AI, for now).",
+        "Created an AI-powered platform for generating software architecture quizzes and bite-sized information, adopted by developer to refine system design skills. (note: api and website)",
       link: {
         label: "arch_bytes",
         href: "https://github.com/Servacius/arch_bytes",
@@ -209,7 +209,7 @@ export const RESUME_DATA = {
       title: "Personal Portfolio v2",
       techStack: ["TypeScript", "Astro Framework", "Tailwind CSS"],
       description:
-        "A personal portfolio website to showcase my projects and skills..",
+        "A personal portfolio website to showcase my projects and skills.",
       link: {
         label: "Personal Portfolio v2",
         href: "https://jokoliber.netlify.app/",
@@ -219,7 +219,7 @@ export const RESUME_DATA = {
       title: "AI Music Recomendation System",
       techStack: ["Gemini API", "Pyton"],
       description:
-        "AI Based Music Recommendation System. Use Spotify's API for music data and Gemini AI API for reference recommendations (at first i set it as a mood-based but i change it).",
+        "Engineered a recommendation system using Spotify API and Gemini AI to map user preferences to music genres and moods.",
       link: {
         label: "Personal Portfolio v2",
         href: "https://github.com/Servacius/AI-MR-Sys",
@@ -229,7 +229,7 @@ export const RESUME_DATA = {
       title: "nodejs_boilerplate",
       techStack: ["Node.js", "Javascript", "Express.js", "PostgreSQL"],
       description:
-        "Boilerplate for personal Rest API that using Express.js as the framework that build on top of Node.js.",
+        "Developed a production-ready REST API template with authentication and PostgreSQL integration, used as a foundation for rapid project onboarding.",
       link: {
         label: "nodejs_boilerplate",
         href: "https://github.com/Servacius/nodejs_boilerplate",
